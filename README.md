@@ -1,1 +1,2 @@
 # Advanced-Regression
+To make model robust and generalisable it should be as simple as possible, even though its accuracy will decrease but it will be more robust and generalisable. we can also understood that using the Bias-Variance trade-off. simpler the model the more the bias but less variance and more generalizable. Its implication in terms of accuracy is that a robust and generalisable model will perform equally well on both training and test data i.e. the accuracy does not change much for training and test data.
